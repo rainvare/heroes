@@ -95,7 +95,6 @@ section.perfil div.descripcion {
     padding: 15px;
     position: relative;
     width: inherit;
-    text-align: justify;
     
 }
 
@@ -120,6 +119,7 @@ section.perfil div.descripcion p {
     line-height: 18.75px;
     padding: 10px;
     width: 267px;
+    text-align: justify;
 }
 
 section.perfil div.descripcion button {
