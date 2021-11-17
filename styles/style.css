@@ -95,6 +95,7 @@ section.perfil div.descripcion {
     padding: 15px;
     position: relative;
     width: inherit;
+    text-align: justify;
     
 }
 
