@@ -73,18 +73,18 @@ main section.perfil {
     /* height: 193px; */
 
     /* margin-top: 154px; */ 
-    /* El MARGIN-TOP no lo necesito si uso flex*/
     /* position: absolute; */
 }
 
 section.perfil div.fondo {
     position: relative;
+    width: 80px;
 }
 
 section.perfil div.fondo div.reaccion img {
     left: 15px;
     position: absolute;
-    top: 20px;
+    top: 40px;
 }
 
 
@@ -126,9 +126,11 @@ section.perfil div.descripcion button {
     background-color: #00669F;
     border: 1px solid transparent;
     color: white;
-    margin: 25px 79px 10px 70px;
-    padding: 15px 35px;
+    margin: -10px 39px 10px 70px;
+    padding: 5px 5px;
     width: 130px;
+    height: 30px;
+    border-radius: 3px;
 }
 
 /* footer */
